@@ -4,5 +4,3 @@
 - It can be modified to be a count of anything
 - [iCloud link](https://www.icloud.com/shortcuts/b327232d25d14d5d8f95581882703aaa)
 
-
-![Screenshot](assets/IMG_0814.jpeg)
