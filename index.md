@@ -22,4 +22,4 @@ I have made some shortcuts that I use everyday, I decided others might like them
 - To use it copy a link or if you add it to the share sheet you can hold down on a link and then run this shortcut on it.
 - A note with "Clipboard" in the title needs to be in iOS notes for the note fuctionality to work ("Clipboard" is case sensitive)
 
-*If you have a problem raise an issue on GitHub (the link is on the left on desktop and above on mobile)*
+*If you have a problem raise an issue on the GitHub repo (the link is on the left on desktop and above on mobile)*
