@@ -26,5 +26,10 @@ I have made some shortcuts that I use everyday, I decided others might like them
 - This shortcut is simple but powerful; it takes you to your homepage
 - There are many use cases for a shortcut like this. Some use it other shortcuts (such as a Youtube PiP shortcut) but i like to use it with siri, i just say "hey siri, go home" and i reach the homepage. This may seem useless but you'll be surprised how much you may use it
 
+### The verge shortcut - [iCloud link](https://www.icloud.com/shortcuts/0e9e950a430343bea717aeb38dd3bef3)
+- Dependant on WidgetPack (beta app)
+- This shortcut gets the latest headlines from The Verge (or any other source) and puts it on a widget
+- I modified an example widget from WidgetPack to make this shortcut.
+- To change the data source, change the rss feed link and change the title to whatever you want
 
 *If you have a problem raise an issue on the GitHub repo (the link is on the left on desktop and above on mobile)*
