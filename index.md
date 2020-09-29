@@ -8,6 +8,7 @@ I have made some shortcuts that I use everyday, I decided others might like them
 - Dependant on WidgetPack (beta app)
 - When you run this shortcut it will update a WidgetPack widget with a page number you enter.
 - It can be modified to be a count of anything
+- Designed to be be a 2x2 widget but it will work as a larger widget (however you might want to increase the font size)
 
 ### A quick calendar summary - [iCloud link](https://www.icloud.com/shortcuts/105d0882ef4247a7abeadb30adc247f4)
 - This shortcut will give you a quick summary of the day
@@ -31,5 +32,6 @@ I have made some shortcuts that I use everyday, I decided others might like them
 - This shortcut gets the latest headlines from The Verge (or any other source) and puts it on a widget
 - I modified an example widget from WidgetPack to make this shortcut.
 - To change the data source, change the rss feed link and change the title to whatever you want
+- Designed to be a 4x2 widget (however raise an issue on github if you want me to guide you in making a smaller widget out of it)
 
 *If you have a problem raise an issue on the GitHub repo (the link is on the left on desktop and above on mobile)*
