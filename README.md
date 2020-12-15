@@ -1,4 +1,4 @@
-# Shortcuts - depreciate (shortcuts are now released on [my site](https://sites.google.com/view/arnavmotwani/shortcuts))
+# Shortcuts - depreciated (shortcuts are now released on [my site](https://sites.google.com/view/arnavmotwani/shortcuts))
 A collection of shortcuts by Me
 
 ## Introduction
